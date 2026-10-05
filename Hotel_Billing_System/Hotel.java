@@ -1,3 +1,4 @@
+package Hotel_Billing_System;
 import java.util.Scanner;
 import java.util.ArrayList;
 
